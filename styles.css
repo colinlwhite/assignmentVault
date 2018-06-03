@@ -1,0 +1,66 @@
+body {
+    background-color: beige; 
+}
+
+article {
+    border: solid 1px lightblue; 
+    width: 30%; 
+    margin: 10px; 
+    float: left;
+}
+
+.productTitle {
+    text-align: center; 
+    border: dotted 1px lightgray; 
+    font-size: 30px; 
+    margin-top: 0px;
+}
+
+img {
+    padding-left: 90px; 
+}
+
+.productDes {
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+}
+
+.inStock {
+    color: yellow; 
+    background-color: gray;
+    font-family: Helvetica;
+    text-align: left;
+    padding-left: 6px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px; 
+}
+
+h4, h3 { 
+    font-family: helvetica; 
+    padding-left: 30px; 
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.sizeWeight {
+    text-indent: 50px; 
+    font-weight: bold;
+    font-size: 13px; 
+    margin-top: 0px; 
+    margin-bottom: 2px; 
+}
+
+.prices {
+    text-indent: 50px; 
+    font-weight: bold;
+    font-size: 13px; 
+    margin: 0px; 
+}
+
+footer {
+    font-size: 11px; 
+    text-align: left; 
+}
+
